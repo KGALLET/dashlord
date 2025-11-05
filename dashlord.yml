@@ -362,3 +362,9 @@ urls:
     betaId: pitchou
     repositories:
       - https://github.com/betagouv/pitchou
+  - url: https://otelo.beta.gouv.fr
+    category: logement
+    betaId: otelo
+    repositories: 
+      - MTES-MCT/otelo-back
+      - MTES-MCT/otelo-front
